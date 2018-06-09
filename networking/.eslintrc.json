@@ -1,0 +1,11 @@
+{
+    "parserOptions": {
+        "ecmaVersion": 2015 
+    },    
+    
+    "extends": "google",
+
+    "rules": {
+        "object-curly-spacing":"off"
+    }
+}
